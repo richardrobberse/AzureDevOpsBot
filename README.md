@@ -7,7 +7,7 @@ This project started as a proof of concept but I realised interacting with Azure
 
 ## Current state of the bot
 Currently, the bot is capable of:
-- Deliver build notifications from Azure DevOps to a Telegram chat or group
+- Delivering build notifications from Azure DevOps to a Telegram chat or group
 
 You can expect this list to grow quickly beause I'm actively working on the bot.
 
