@@ -1,7 +1,7 @@
 # AzureDevOpsBot
-This is the public place to give feedback on the azdevops Telegram bot.
-AzDevOpsBot is a Telegram bot to interact with Azure DevOps from Telegram.
-This project started as a proof of concept but I realised interacting with Azure DevOps through a Telegram bot on your phone is extremely powerful.
+This is the public place to give feedback on the azdevops Telegram bot.  
+AzDevOpsBot is a Telegram bot to interact with Azure DevOps from Telegram.  
+This project started as a proof of concept but I realised interacting with Azure DevOps through a Telegram bot on your phone is extremely powerful, useful and fun!
 
 **I'm actively looking for people that are willing to use the bot and provide feedback/come up with cool use-cases**
 
